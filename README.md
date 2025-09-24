@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Shadhink412  
+<div align="center">
+
+# 👋 Hi there, I'm **Shadhink412**  
 
 🔥 Passionate about coding, open-source & building cool stuff!  
 
@@ -17,19 +19,20 @@
 ---
 
 ## 🏆 Achievements & Highlights
-- 🔥 1k+ profile visits  
-- 💻 Contributed to multiple open-source projects  
-- 🚀 Active in Python, JavaScript, and web development  
+🔥 1k+ profile visits  
+💻 Contributed to multiple open-source projects  
+🚀 Active in Python, JavaScript, and web development  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python 🐍 | JavaScript ⚡ | C++ | HTML | CSS  
-- **Frameworks**: React ⚛️ | Node.js 🌐 | Django | Express  
-- **Tools**: Git | GitHub | VS Code | Linux  
+**Languages**: Python 🐍 | JavaScript ⚡ | C++ | HTML | CSS  
+**Frameworks**: React ⚛️ | Node.js 🌐 | Django | Express  
+**Tools**: Git | GitHub | VS Code | Linux  
 
 ---
 
 ## 🌟 Fun Fact
-> “Code, Commit, Push, Repeat 🔁”  
+✨ *“Code, Commit, Push, Repeat 🔁”*  
 
+</div>
