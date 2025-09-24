@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Shadhink412**
+# 👋 Hi there!
 
-🔥 Passionate about coding, open-source & building cool stuff!
+🔥 Open-source & building cool stuff!
 
-<!-- Improved Typing SVG (higher opacity / darker color & slightly larger) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Segoe%20UI&size=32&pause=800&color=000000&width=720&lines=Hi+i+am+shadhin!;Nice+to+meet+you!%F0%9F%98%8A&center=true)](https://git.io/typing-svg)
+<!-- Typing SVG (Blue Color) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Segoe%20UI&size=32&pause=800&color=0000FF&width=720&lines=Hi+i+am+shadhin!;Nice+to+meet+you!%F0%9F%98%8A&center=true)](https://git.io/typing-svg)
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ## 🏆 Achievements & Highlights
-- 🔥 500k+ profile visits  
+- 🔥 1k+ profile visits  
 - 💻 Contributed to multiple open-source projects  
 - 🚀 Active in Python, JavaScript, and web development  
 
